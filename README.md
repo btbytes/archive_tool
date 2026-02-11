@@ -55,6 +55,11 @@ Optional notes or description here.
 4. For dead links, queries the Wayback Machine for the closest snapshot
 5. Updates the bookmark file with the archived URL if found
 
+## AI Note
+
+Code written with the help of Opencode and `kimi-k2.5-free`.
+
+
 ## License
 
 MIT
